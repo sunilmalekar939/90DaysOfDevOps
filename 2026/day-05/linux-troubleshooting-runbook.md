@@ -1,4 +1,6 @@
-To comple thsu acivity what i didi i run 1 docker file on my local base on that i ma creating actiosn 
+###### As part of this activity, I set up a Docker container locally and used it to perform hands-on troubleshooting actions 
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
 
 ###### docker ps
 CONTAINER ID   IMAGE                                           COMMAND             CREATED          STATUS                            PORTS     NAMES
